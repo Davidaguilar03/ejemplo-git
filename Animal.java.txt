@@ -1,6 +1,6 @@
 public class Animal{
 	private String name;
 	int edad;
-
+	int numero de patas
 
 }
